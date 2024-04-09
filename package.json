@@ -16,5 +16,11 @@
   },
   "homepage": "https://github.com/leipoa/node#readme",
   "keywords": [],
-  "description": ""
+  "description": "",
+  "devDependencies": {
+    "prettier": "3.2.5"
+  },
+  "dependencies": {
+    "eslint": "^9.0.0"
+  }
 }
